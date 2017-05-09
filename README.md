@@ -1,4 +1,4 @@
-# Trumbowyg WYSIWYG Editor
+# Trumbowyg WYSIWYG Editor :)
 
 [![CDNJS](https://img.shields.io/cdnjs/v/Trumbowyg.svg)](https://cdnjs.com/libraries/Trumbowyg)
 
